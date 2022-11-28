@@ -25,5 +25,6 @@ export class AddProductComponent {
     }
     console.log(data)
   }
+  
 
 }
